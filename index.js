@@ -1,8 +1,8 @@
 fs = require('fs'),
 path = require('path');
 const webfont = require('webfont').default;
+
 const output_dir = 'out';
-const icon_dir = 'svg';
 const icon_glob = 'svg' + '/**/*.svg';
 
 
