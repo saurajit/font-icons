@@ -1,0 +1,13 @@
+{
+  "name": "zaloni-icon",
+  "version": "0.0.1",
+  "description": "Zaloni font generator",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "webfont": "^7.1.4"
+  }
+}
